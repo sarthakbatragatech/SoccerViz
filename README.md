@@ -4,6 +4,26 @@ Visualization of Football (Soccer for the aliens) Stats
 
 ## Plots
 
+### Distribution of results: A home-away perspective
+
+#### 2009-2018 Seasons
+
+![Goals vs Shots on Target](plots/home_away_overall.png)
+
+#### 2018-19 Season
+
+![Goals vs Shots on Target](plots/home_away_201819.png)
+
+### Comeback likelihood from Half-Time
+
+#### 2009-2018 Seasons
+
+![Comeback likelihood from Half-Time](plots/comeback_overall.png)
+
+#### 2018-19 Season
+
+![Comeback likelihood from Half-Time](plots/comeback_201819.png)
+
 ### Heatmap of Scoreline
 
 #### 2009-2018 Seasons
