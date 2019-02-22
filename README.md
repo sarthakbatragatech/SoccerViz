@@ -4,6 +4,26 @@ Visualization of Football (Soccer for the aliens) Stats
 
 ## Plots
 
+### Heatmap of Scoreline
+
+#### 2009-2018 Seasons
+
+![Heatmap of Scoreline](plots/heatmap_scoreline_overall.png)
+
+#### 2018-19 Season
+
+![Heatmap of Scoreline](plots/heatmap_scoreline_201819.png)
+
+### Heatmap of Results (Home and Away)
+
+#### 2009-2018 Seasons
+
+![Heatmap of Results (Home and Away)](plots/heatmap_results_overall.png)
+
+#### 2018-19 Season
+
+![Heatmap of Results (Home and Away)](plots/heatmap_results_201819.png)
+
 ### Full time Goals vs Half time Goals
 
 #### 2009-2018 Seasons
