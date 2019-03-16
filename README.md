@@ -91,3 +91,7 @@ Visualization of Football (Soccer for the aliens) Stats
 ![Position and League Destination Breakdown](plots/transfer_position_league_to.png)
 
 ![Top 5 Position and League Destination Breakdown](plots/transfer_position_league_to_top5.png)
+
+![Position and League Destination Breakdown Request 1](plots/transfer_request.png)
+
+![Position and League Destination Breakdown Request 2](plots/transfer_request_2.png)
