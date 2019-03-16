@@ -89,3 +89,5 @@ Visualization of Football (Soccer for the aliens) Stats
 #### 2018-19 Preseason Position and League Destination Breakdown
 
 ![Position and League Destination Breakdown](plots/transfer_position_league_to.png)
+
+![Top 5 Position and League Destination Breakdown](plots/transfer_position_league_to_top5.png)
