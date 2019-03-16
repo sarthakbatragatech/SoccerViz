@@ -83,3 +83,9 @@ Visualization of Football (Soccer for the aliens) Stats
 #### 2018-19 Season
 
 ![Goals vs Shots on Target](plots/goals_shots_target_1819.png)
+
+### Transfer Analysis
+
+#### 2018-19 Preseason Position and League Destination Breakdown
+
+![Position and League Destination Breakdown](plots/transfer_position_league_to.png)
